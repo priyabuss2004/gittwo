@@ -1,3 +1,6 @@
 This project has food information.
 
 You should eat fruits everyday.
+
+The food information can be useful for healthy tips.
+
