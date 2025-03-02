@@ -1,1 +1,3 @@
 This project has food information.
+
+The food infoprmation can be usefuil for healthy tips.
